@@ -1,0 +1,15 @@
+{
+  "upload_type": "dataset",
+  "title": "Data and code for: Teachers' Media Competence and Its Classroom Integration: A Transposition Gap Shared by Women and Men in Basic Education in the Dominican Republic",
+  "description": "Anonymized dataset (AMI-ALFAMED questionnaire, 826 in-service basic education teachers in the Dominican Republic; 705 retained after data-quality screening) and R code that reproduces all tables, figures and statistics reported in the article.",
+  "creators": [
+    {"name": "Lena-Acebo, Francisco Javier", "Departamento de Educación": "Universidad de cantabria", "orcid": "0000-0002-7661-8398"},
+    {"name": "Renes Arellano, Paula", "Departamento de Educación": "Universidad de Cantabria", "orcid": "0000-0003-0932-7694"}
+    {"name": "Andrade-Vargas, Lucy", "Universidad Técnica Particular de Loja", "orcid": "0000-0002-4821-3596"}
+    {"name": "Vólquez-Pérez, José", "Universidad Técnica de Santiago", "orcid": "0000-0002-4821-3596"}
+  ],
+  "keywords": ["media and information literacy", "teacher education", "gender", "AMI-ALFAMED", "Dominican Republic", "pedagogical content knowledge"],
+  "license": "cc-by-4.0",
+  "language": "eng",
+  "grants": [{"id": "10.13039/501100011033::PID2023-146288NB-I00"}]
+}
